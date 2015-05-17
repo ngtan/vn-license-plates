@@ -11,8 +11,15 @@ A node.js module to look up province by various license plates
 # Usage
 ```js
   var licensePlates = require('vn-license-plates');
-  
+
   licensePlates.lookup('59'); // Ho Chi Minh
+```
+
+# Development
+
+Run test:
+```js
+  $ npm test
 ```
 
 # Contributors
