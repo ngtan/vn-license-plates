@@ -9,7 +9,7 @@ function load() {
   var lines = data.split('\r\n');
   var nodes = {};
 
-  lines.forEach(function(line) {
+  lines.forEach(function (line) {
     var parts = line.split(',');
     var node = nodes;
     for (var i = 0; i < parts.length - 1; i++) {
