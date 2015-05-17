@@ -1,0 +1,25 @@
+{
+  "name": "vn-license-plates",
+  "version": "0.0.1",
+  "description": "Easily look up province by various license plates",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NgTan/vn-license-plates.git"
+  },
+  "keywords": [
+    "vn license plates",
+    "vn",
+    "license plates",
+    "vietnam license plates"
+  ],
+  "author": "Tan Nguyen <tannd1993@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NgTan/vn-license-plates/issues"
+  },
+  "homepage": "https://github.com/NgTan/vn-license-plates"
+}
