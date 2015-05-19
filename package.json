@@ -1,6 +1,6 @@
 {
   "name": "vn-license-plates",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Easily look up province by various license plates",
   "main": "index.js",
   "scripts": {

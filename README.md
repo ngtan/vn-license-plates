@@ -22,8 +22,5 @@ Run test:
   $ npm test
 ```
 
-# Contributors
-  Tan Nguyen <tannd1993@gmail.com>
-
 # License
   MIT
